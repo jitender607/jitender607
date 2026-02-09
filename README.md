@@ -3,8 +3,8 @@
 ```
 ┌──────────────────────────────┐
 │     JITENDER CHAUHAN         │
-│        aka Mr. J             │
-│  AI Engineer • Full-Stack    │
+│        # Mr. J               │
+│  AI Engineer • Developer     │
 └──────────────────────────────┘
 ```
 
@@ -29,7 +29,7 @@ $ cat /etc/profile
 ├───────────────────────────────┤
 │ User:   Jitender Chauhan      │
 │ Alias:  Mr. J                 │
-│ Loc:    Kullu, HP, India 🏔️  │
+│ Loc:    Kullu, HP, India 🏔️   │
 │ Shell:  /bin/bash             │
 │ Editor: VS Code               │
 │ Role:   BCA (AI & ML)         │
@@ -336,7 +336,7 @@ $ fortune
 ```
 ```
 ╔══════════════════════════════╗
-║ "First solve the problem,   ║
+║ "First solve the problem,    ║
 ║  then write the code."       ║
 ║                              ║
 ║ "Good code is its own        ║
