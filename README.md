@@ -1,335 +1,440 @@
-# 👋 Hi, I'm Jitender Chauhan 
-### aka **Mr. J** 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+the+Future)](https://git.io/typing-svg)
-
-</div>
-
-```ascii
- ███▄ ▄███▓ ██▀███      ▄▄▄██▀▀▀
-▓██▒▀█▀ ██▒▓██ ▒ ██▒      ▒██   
-▓██    ▓██░▓██ ░▄█ ▒      ░██  
-▒██    ▒██ ▒██▀▀█▄     ▓██▄██▓
-▒██▒   ░██▒░██▓ ▒██▒    ▓███▒  
-░ ▒░   ░  ░░ ▒▓ ░▒▓░    ▒▓▒▒░  
 ```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Quantum%20Terminal-00ff41?style=for-the-badge&logo=About.me&logoColor=00ff41)](your-portfolio-url-here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class JitenderChauhan:
-    def __init__(self):
-        self.name = "Jitender Chauhan"
-        self.alias = "Mr. J"
-        self.location = "Kullu, Himachal Pradesh, India 🏔️"
-        self.education = {
-            "degree": "BCA (Bachelor of Computer Applications)",
-            "specialization": "Artificial Intelligence & Machine Learning",
-            "university": "Shoolini University",
-            "status": "Advanced Undergraduate"
-        }
-        self.current_focus = [
-            "AI/ML Development",
-            "Full Stack Web Development",
-            "Building Innovative Solutions"
-        ]
-        self.goals = {
-            "short_term": "Master AI/ML & C#",
-            "long_term": "Study in Japan/Taiwan, Work in AI Industry"
-        }
-        self.passion = "Building intelligent systems that solve real-world problems 🌟"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = JitenderChauhan()
-me.say_hi()
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   ███▄ ▄███▓ ██▀███      ▄▄▄██▀▀▀                                         │
+│  ▓██▒▀█▀ ██▒▓██ ▒ ██▒      ▒██                                            │
+│  ▓██    ▓██░▓██ ░▄█ ▒      ░██                                            │
+│  ▒██    ▒██ ▒██▀▀█▄     ▓██▄██▓                                           │
+│  ▒██▒   ░██▒░██▓ ▒██▒    ▓███▒                                            │
+│  ░ ▒░   ░  ░░ ▒▓ ░▒▓░    ▒▓▒▒░                                            │
+│  ░  ░      ░  ░▒ ░ ▒░    ▒ ░▒░                                            │
+│  ░      ░     ░░   ░     ░ ░ ░                                            │
+│         ░      ░         ░   ░                                            │
+│                                                                             │
+│                        JITENDER CHAUHAN                                     │
+│                           aka Mr. J                                         │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-### Design
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=FFFFFF" />
-
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🏆 Achievements & Certifications
-
-```yaml
-Certifications:
-  - name: "IBM Skills Build"
-    topics: ["AI Fundamentals", "Professional Skills"]
-    status: "Completed ✅"
-  
-  - name: "University Workshops"
-    topics: ["Advanced CS", "Machine Learning"]
-    status: "Active 🔄"
-
-Skills_Mastered: 15+
-Projects_Completed: 10+
-Lines_of_Code: 50000+
-Coffee_Consumed: ∞
-```
-
-## 🎯 Current Focus
-
-```javascript
-const currentlyWorkingOn = {
-    learning: [
-        "Advanced Machine Learning Algorithms",
-        "Deep Learning & Neural Networks",
-        "Full Stack Development with React",
-        "C# & .NET Framework"
-    ],
-    building: [
-        "AI-powered Student Management System",
-        "ML Prediction Models",
-        "Personal Portfolio Website (Terminal-themed)",
-        "Creative Design Projects"
-    ],
-    reading: [
-        "Hands-On Machine Learning with Scikit-Learn",
-        "Clean Code by Robert C. Martin",
-        "Fiction novels 📚"
-    ],
-    goals_2026: [
-        "Build 5+ production-ready projects",
-        "Contribute to open source",
-        "Master AI/ML frameworks",
-        "Prepare for international studies (Japan/Taiwan)"
-    ]
-};
-```
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Student Management System](https://img.shields.io/badge/Student%20Management%20System-Full%20Stack-00FF41?style=for-the-badge&logo=checkmarx&logoColor=00FF41)](https://github.com/yourusername/student-management)
-[![AI/ML Projects](https://img.shields.io/badge/AI%2FML%20Mini%20Projects-Machine%20Learning-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=00D9FF)](https://github.com/yourusername/ml-projects)
-[![Portfolio](https://img.shields.io/badge/Quantum%20Terminal%20Portfolio-Web%20Dev-A855F7?style=for-the-badge&logo=linux&logoColor=A855F7)](https://github.com/yourusername/portfolio)
-
-</div>
-
-<details>
-<summary><b>🚀 Project Details (Click to expand)</b></summary>
-
-### 📦 Student Management System
-**Full Stack Application** | MySQL + C# + Web
-- ✅ Fee payment module with database integration
-- ✅ Robust UI/Backend architecture
-- ✅ Real-time data management
-- 🛠️ Tech: MySQL, C#, Web Development
-
-### 🤖 AI/ML Mini Projects
-**Machine Learning Collection** | Python + TensorFlow
-- ✅ Data analysis and prediction models
-- ✅ Custom training pipelines
-- ✅ Model evaluation frameworks
-- 🛠️ Tech: Python, Pandas, Scikit-learn, TensorFlow
-
-### 🎨 Design Portfolio
-**Creative Works** | UI/UX Design
-- ✅ Posters, wallpapers, branding concepts
-- ✅ Website UI designs
-- ✅ Visual storytelling
-- 🛠️ Tech: Canva, Figma
-
-</details>
-
-## 💡 What I Bring to the Table
 
 ```bash
-$ cat strengths.txt
+$ whoami
+jitender-chauhan
 
-⚡ Problem Solving      → Breaking complex problems into elegant solutions
-🎨 Creative Thinking    → Unique approaches to technical challenges
-📊 Data-Driven         → Making decisions based on analysis and metrics
-🔄 Continuous Learning  → Always exploring new technologies
-🎯 Precision           → Attention to detail in every line of code
-🤝 Collaboration       → Team player with strong communication skills
+$ pwd
+/home/mrj/github-profile
+
+$ cat /etc/profile
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ System Information                                                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ User:           Jitender Chauhan                                            │
+│ Alias:          Mr. J                                                       │
+│ Location:       Kullu, Himachal Pradesh, India 🏔️                          │
+│ Timezone:       IST (UTC+5:30)                                              │
+│ Shell:          /bin/bash                                                   │
+│ Editor:         VS Code / vim                                               │
+│ Occupation:     BCA Student (AI & ML)                                       │
+│ University:     Shoolini University                                         │
+│ Status:         Building the Future 🚀                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 🌱 Learning Journey
+```bash
+$ cat mission.txt
+```
+> *"I build intelligent systems that solve real-world problems while growing as a*  
+> *global software engineer. My journey blends technology, creativity, and*  
+> *continuous learning."*
 
-<div align="center">
+```bash
+$ ls -la ~/skills/
+```
+```
+total 48K
+drwxr-xr-x  6 mrj mrj 4.0K Jan 15 2026 .
+drwxr-xr-x 12 mrj mrj 4.0K Jan 15 2026 ..
 
-```mermaid
-graph LR
-    A[BCA Student] --> B[AI & ML Specialization]
-    B --> C[Full Stack Developer]
-    C --> D[AI Engineer]
-    D --> E[International Career]
-    E --> F[Tech Entrepreneur]
-    
-    style A fill:#00ff41,stroke:#00d9ff,stroke-width:2px,color:#000
-    style B fill:#00ff41,stroke:#00d9ff,stroke-width:2px,color:#000
-    style C fill:#00d9ff,stroke:#a855f7,stroke-width:2px,color:#000
-    style D fill:#00d9ff,stroke:#a855f7,stroke-width:2px,color:#000
-    style E fill:#a855f7,stroke:#ff0055,stroke-width:2px,color:#fff
-    style F fill:#ffed4e,stroke:#ff0055,stroke-width:2px,color:#000
+drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 languages/
+  ├── c_lang.so
+  ├── cpp_lang.so
+  ├── csharp_lang.dll
+  ├── python_ml.py
+  └── javascript.js
+
+drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 web_dev/
+  ├── html5.html
+  ├── css3.css
+  ├── react.jsx
+  ├── nodejs.js
+  └── fullstack.config
+
+drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 ai_ml/
+  ├── tensorflow.py
+  ├── pytorch.pt
+  ├── pandas.py
+  ├── numpy.npy
+  ├── scikit_learn.pkl
+  └── data_analysis.ipynb
+
+drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 tools/
+  ├── mysql.sql
+  ├── git.config
+  ├── github.repo
+  ├── vscode.json
+  └── canva.design
 ```
 
-</div>
+```bash
+$ systemctl status mrj.service
+```
+```
+● mrj.service - Jitender Chauhan Developer Service
+   Loaded: loaded (/etc/systemd/system/mrj.service; enabled)
+   Active: active (running) since Jan 2024
+     Docs: https://your-portfolio-url.com
+ Main PID: 1337 (mrj-daemon)
+    Tasks: ∞ (limit: unlimited)
+   Memory: Learning Mode (Expanding...)
+   CGroup: /system.slice/mrj.service
+           ├─ Coding Sessions:     [████████████████████] 100%
+           ├─ Problem Solving:     [████████████████████] 100%
+           ├─ Innovation:          [██████████████████  ]  90%
+           └─ Coffee Consumption:  [████████████████████] ∞
 
-## 🎮 Interests Beyond Code
+Jan 15 00:00:01 localhost mrj[1337]: Initialization complete
+Jan 15 00:00:01 localhost mrj[1337]: Loading AI/ML modules...
+Jan 15 00:00:02 localhost mrj[1337]: Full-stack capabilities enabled
+Jan 15 00:00:02 localhost mrj[1337]: Ready to build amazing things
+```
 
-- 📖 **Reading Fiction** - Exploring different worlds through stories
-- 🎮 **Esports** - Team QUE 9 member
-- 🎨 **Design & Creativity** - UI/UX, digital art, branding
-- 🇯🇵 **Japanese Culture** - Language, anime, tech culture
-- 🇨🇳 **Chinese Culture** - History, technology innovations
-- 🏔️ **Mountains** - Proud Himachali, love for nature
+```bash
+$ cat /proc/stats
+```
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                       PERFORMANCE METRICS                        │
+├─────────────────────────────────────────────────────────────────┤
+│  Skills Mastered:           15+                                 │
+│  Projects Completed:        10+                                 │
+│  Lines of Code:             50,000+                             │
+│  GitHub Contributions:      Growing Daily                       │
+│  Problem Solving Rate:      99.9%                               │
+│  Coffee Cups:               ∞                                   │
+│  Passion Level:             Over 9000! 🔥                       │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-## 📈 Contribution Graph
+```bash
+$ tree ~/projects/
+```
+```
+/home/mrj/projects/
+├── legendary-works/
+│   ├── student-management-system/
+│   │   ├── backend/
+│   │   │   ├── csharp/
+│   │   │   └── mysql/
+│   │   ├── frontend/
+│   │   └── README.md ⭐ [Full Stack]
+│   │
+│   ├── ai-ml-projects/
+│   │   ├── data-analysis/
+│   │   ├── prediction-models/
+│   │   ├── training-pipelines/
+│   │   └── README.md ⭐ [Machine Learning]
+│   │
+│   └── design-portfolio/
+│       ├── posters/
+│       ├── wallpapers/
+│       ├── branding/
+│       └── README.md ⭐ [Creative Design]
+│
+└── in-development/
+    ├── quantum-terminal-portfolio/
+    └── secret-project-ai/ 🔒
+```
 
-<div align="center">
+```bash
+$ crontab -l
+```
+```
+# Scheduled Tasks - Jitender's Daily Routine
+# min hour day mon dow command
 
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+00  06  *  *  *  /usr/bin/wake_up && /usr/bin/coffee
+30  06  *  *  *  /usr/bin/read_tech_news
+00  07  *  *  *  cd ~/projects && /usr/bin/code_session
+00  12  *  *  *  /usr/bin/lunch_break
+30  13  *  *  *  /usr/bin/learn_new_tech
+00  18  *  *  *  /usr/bin/build_projects
+00  22  *  *  *  /usr/bin/github_commit
+30  22  *  *  *  /usr/bin/plan_tomorrow
+00  23  *  *  *  /usr/bin/sleep_mode
 
-</div>
+# Continuous Learning Loop
+*   *   *  *  *  /usr/bin/improve_skills
+```
 
-## 📫 Let's Connect!
+```bash
+$ cat ~/.bashrc | grep alias
+```
+```bash
+# Custom Aliases
+alias goals='echo "Master AI/ML → Study in Japan/Taiwan → AI Industry → Tech Entrepreneur"'
+alias passion='echo "Building intelligent systems that change lives 🚀"'
+alias motto='echo "Code with purpose, create with passion, innovate with courage"'
+alias stack='echo "C | C++ | C# | Python | JavaScript | AI/ML | Full-Stack"'
+alias dream='echo "Working on cutting-edge AI in Japan or Taiwan 🇯🇵🇹🇼"'
+alias status='echo "Coding 💻 | Learning 📚 | Building 🔨 | Evolving 🌱"'
+alias contact='cat ~/contact.info'
+alias coffee='echo "☕ Brewing innovation..."'
+```
 
-<div align="center">
+```bash
+$ cat ~/contact.info
+```
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                      ESTABLISH CONNECTION                        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  📧  EMAIL      →  your.email@example.com                       │
+│  🐙  GITHUB     →  github.com/yourusername                      │
+│  💼  LINKEDIN   →  linkedin.com/in/yourusername                 │
+│  📸  INSTAGRAM  →  instagram.com/yourusername                   │
+│  🌐  PORTFOLIO  →  your-portfolio-url.com                       │
+│                                                                  │
+│  📡 Response Time: < 24 hours                                   │
+│  🌏 Open to: Collaborations | Opportunities | Tech Discussions  │
+│  ⚡ Status: Online and Ready to Connect                         │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-### 🌐 Find me on the web
+```bash
+$ cat /var/log/achievements.log
+```
+```
+[2024-XX-XX 00:00:00] INFO: IBM Skills Build Certification - COMPLETED ✅
+[2024-XX-XX 00:00:00] INFO: AI Fundamentals Course - COMPLETED ✅
+[2024-XX-XX 00:00:00] INFO: Student Management System - DEPLOYED 🚀
+[2025-XX-XX 00:00:00] INFO: Multiple ML Projects - COMPLETED ✅
+[2026-01-XX 00:00:00] INFO: Quantum Terminal Portfolio - LIVE 🌐
+[2026-01-XX 00:00:00] INFO: Advanced GitHub Profile - CREATED 💚
+[2026-XX-XX 00:00:00] WARN: More epic projects incoming...
+[2026-XX-XX 00:00:00] INFO: Level up in progress... 📈
+```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Quantum_Terminal-00ff41?style=for-the-badge)](your-portfolio-url)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:your.email@example.com)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge)](https://instagram.com/yourusername)
+```bash
+$ df -h ~/interests/
+```
+```
+Filesystem              Size  Used  Avail  Use%  Mounted on
+/dev/interests          ∞     Full  ∞      ♾️   /home/mrj/interests
+
+/interests/coding          [████████████████████] 100%  Primary
+/interests/ai_ml           [████████████████████] 100%  Primary
+/interests/web_dev         [████████████████████] 100%  Primary
+/interests/reading         [████████████████░░░░]  80%  Fiction Novels
+/interests/esports         [███████████████░░░░░]  75%  Team QUE 9
+/interests/design          [██████████████████░░]  90%  UI/UX
+/interests/japanese        [████████████░░░░░░░░]  60%  Culture & Lang
+/interests/chinese         [███████████░░░░░░░░░]  55%  Tech & Culture
+/interests/mountains       [████████████████████] 100%  Himachal Pride
+```
+
+```bash
+$ cat /etc/goals/roadmap.conf
+```
+```ini
+[SHORT_TERM_2026]
+; Current Focus Areas
+learn_advanced_ml = true
+master_csharp = true
+build_production_projects = 5+
+enhance_fullstack = true
+contribute_opensource = true
+prepare_international_studies = true
+
+[LONG_TERM_2027_2030]
+; Future Aspirations
+study_location = ["Japan", "Taiwan"]
+scholarship = "MEXT"
+career_path = "AI Industry"
+role = "Global Software Engineer"
+entrepreneurship = "Tech Startup"
+impact = "Change the World"
+
+[DREAM_PROJECTS]
+ai_education_platform = "In Progress"
+opensource_ml_tools = "Planning"
+cross_cultural_tech_community = "Ideation"
+ai_research_papers = "Future Goal"
+```
+
+```bash
+$ uname -a
+```
+```
+Jitender-OS 2.0.0-quantum #1337 SMP Mon Jan 15 2026 x86_64 GNU/Developer
+Kernel: Passion-Driven Development
+Architecture: Full-Stack + AI/ML
+Build: Continuous Learning Model
+Compiled: With ❤️ and ☕
+```
+
+```bash
+$ echo $PATH
+```
+```
+/usr/local/ai_ml/bin:
+/usr/local/fullstack/bin:
+/opt/creative_design/bin:
+/home/mrj/innovation/bin:
+/home/mrj/projects/bin:
+/home/mrj/.continuous_learning/bin:
+/usr/share/passion:
+/var/lib/dreams
+```
+
+```bash
+$ top -u mrj
+```
+```
+Tasks: ∞ total, ∞ running, 0 sleeping, 0 stopped
+%CPU: 100 (Fully Engaged)    %MEM: Expanding    Load Avg: Optimal
+
+  PID  USER  PR   NI   VIRT    RES   SHR  S  %CPU  %MEM  TIME+     COMMAND
+ 1337  mrj   20   0   999G   999G   999G  R  100   100   24/7      coding
+ 1338  mrj   20   0   999G   999G   999G  R  100   100   24/7      learning
+ 1339  mrj   20   0   999G   999G   999G  R  100   100   24/7      building
+ 1340  mrj   20   0   999G   999G   999G  R  100   100   24/7      creating
+ 1341  mrj   20   0   999G   999G   999G  R   99   100   24/7      innovating
+ 1342  mrj   20   0   999G   999G   999G  R  100   100   ∞         dreaming
+```
+
+```bash
+$ history | tail -10
+```
+```
+ 9991  git commit -m "Built amazing AI project"
+ 9992  git push origin main
+ 9993  npm run deploy
+ 9994  coffee --extra-strong
+ 9995  code --new-feature
+ 9996  pytest --coverage
+ 9997  git commit -m "Fixed all bugs"
+ 9998  learn-new-tech --mode=intensive
+ 9999  build-the-future --passion=max
+10000  echo "Never stop learning, never stop building" > /dev/inspiration
+```
+
+```bash
+$ sudo fortune
+```
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  "Any fool can write code that a computer can understand.        ║
+║   Good programmers write code that humans can understand."       ║
+║                                                                  ║
+║   "First, solve the problem. Then, write the code."              ║
+║                                                                  ║
+║   "Code is like humor. When you have to explain it, it's bad."   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+$ neofetch
+```
+```
+                    ##                    mrj@github
+                  ####                    ──────────────────────────
+                ######                    OS: Developer Edition v2.0
+              ########                    Host: Shoolini University
+            ##########                    Kernel: Passion-5.15-LTS
+          ############                    Uptime: 24/7/365
+        ##############                    Shell: bash 5.2.15
+      ################                    Resolution: 4K Ultra HD
+    ##################                    WM: Innovation Manager
+  ####################                    Theme: Terminal-Hacker-Neon
+  ####################                    Icons: Minimalist-Dev
+    ##################                    Terminal: Quantum Shell
+      ################                    CPU: Brain (8 cores)
+        ##############                    GPU: Creativity Accelerator
+          ############                    Memory: Unlimited Learning
+            ##########                    
+              ########                    ████ ████ ████ ████ ████
+                ######                    ████ ████ ████ ████ ████
+                  ####                    
+                    ##                    
+```
+
+```bash
+$ cat .signature
+```
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║  ██████╗  ██╗   ██╗ ██╗ ██╗     ██████╗  ██╗ ███╗   ██╗  ██████╗        ║
+║  ██╔══██╗ ██║   ██║ ██║ ██║     ██╔══██╗ ██║ ████╗  ██║ ██╔════╝        ║
+║  ██████╔╝ ██║   ██║ ██║ ██║     ██║  ██║ ██║ ██╔██╗ ██║ ██║  ███╗       ║
+║  ██╔══██╗ ██║   ██║ ██║ ██║     ██║  ██║ ██║ ██║╚██╗██║ ██║   ██║       ║
+║  ██████╔╝ ╚██████╔╝ ██║ ███████╗██████╔╝ ██║ ██║ ╚████║ ╚██████╔╝       ║
+║  ╚═════╝   ╚═════╝  ╚═╝ ╚══════╝╚═════╝  ╚═╝ ╚═╝  ╚═══╝  ╚═════╝        ║
+║                                                                           ║
+║         ████████╗ ██╗  ██╗ ███████╗                                      ║
+║         ╚══██╔══╝ ██║  ██║ ██╔════╝                                      ║
+║            ██║    ███████║ █████╗                                        ║
+║            ██║    ██╔══██║ ██╔══╝                                        ║
+║            ██║    ██║  ██║ ███████╗                                      ║
+║            ╚═╝    ╚═╝  ╚═╝ ╚══════╝                                      ║
+║                                                                           ║
+║         ███████╗ ██╗   ██╗ ████████╗ ██╗   ██╗ ██████╗  ███████╗        ║
+║         ██╔════╝ ██║   ██║ ╚══██╔══╝ ██║   ██║ ██╔══██╗ ██╔════╝        ║
+║         █████╗   ██║   ██║    ██║    ██║   ██║ ██████╔╝ █████╗          ║
+║         ██╔══╝   ██║   ██║    ██║    ██║   ██║ ██╔══██╗ ██╔══╝          ║
+║         ██║      ╚██████╔╝    ██║    ╚██████╔╝ ██║  ██║ ███████╗        ║
+║         ╚═╝       ╚═════╝     ╚═╝     ╚═════╝  ╚═╝  ╚═╝ ╚══════╝        ║
+║                                                                           ║
+║                 One commit at a time, one dream at a time                ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+$ exit
+```
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  Thanks for visiting my terminal! 🚀                                        │
+│                                                                             │
+│  If you found this interesting, consider:                                   │
+│    • Starring ⭐ my repositories                                            │
+│    • Following 👤 for more cool projects                                   │
+│    • Collaborating 🤝 on something amazing                                 │
+│                                                                             │
+│  Remember: "The best time to plant a tree was 20 years ago.                │
+│             The second best time is now." 🌱                                │
+│                                                                             │
+│  Stay curious. Keep coding. Build the future.                              │
+│                                                                             │
+│  logout: Connection to github.com closed.                                  │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+[Process completed - Press any key to continue or visit my portfolio]
+```
 
 ---
 
-### 💬 Open to
-
-- 🤝 Collaboration on AI/ML projects
-- 💼 Internship opportunities
-- 🌏 International project partnerships
-- 📚 Knowledge sharing and mentorship
-- 🚀 Innovative startup ideas
-
----
-
-### 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-## 💭 Random Dev Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=flat-square&label=VISITORS)
 
-</div>
-
-## 🎯 2026 Goals Tracker
-
-- [x] Build advanced portfolio website
-- [x] Complete IBM Skills Build certification
-- [ ] Contribute to 5+ open source projects
-- [ ] Build production-ready AI project
-- [ ] Master React and Node.js
-- [ ] Learn Japanese (JLPT N5)
-- [ ] Prepare MEXT scholarship application
-- [ ] Publish technical blog posts
-- [ ] Reach 100+ GitHub followers
-- [ ] Build personal tech brand
-
----
-
-<div align="center">
-
-### 💚 Thanks for visiting!
-
-```
-  _____                 _                     __              
- |_   _|__   __ _  __ _| |_ ___  __ _   ___ / _|  ___        
-   | |/ _ \ / _` |/ _` | __/ _ \/ _` | / _ \ |_  / _ \       
-   | |  __/| (_| | (_| | ||  __/ (_| ||  __/  _||  __/       
-   |_|\___| \__, |\__, |\__\___|\__,_| \___|_|   \___|       
-            |___/ |___/                                       
-```
-
-**"Building the future, one commit at a time"** 🚀
-
-If you like what you see, consider giving a ⭐ to my repositories!
-
-**Last Updated:** January 2026
-
-</div>
-
----
-
-<div align="center">
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-**💻 Code • ☕ Coffee • 🚀 Create**
+**Last boot:** `January 2026` | **Uptime:** `24/7/365` | **Status:** `● ONLINE`
 
 </div>
