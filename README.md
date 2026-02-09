@@ -1,83 +1,108 @@
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ███▄ ▄███▓ ██▀███      ▄▄▄██▀▀▀                                         │
-│  ▓██▒▀█▀ ██▒▓██ ▒ ██▒      ▒██                                            │
-│  ▓██    ▓██░▓██ ░▄█ ▒      ░██                                            │
-│  ▒██    ▒██ ▒██▀▀█▄     ▓██▄██▓                                           │
-│  ▒██▒   ░██▒░██▓ ▒██▒    ▓███▒                                            │
-│  ░ ▒░   ░  ░░ ▒▓ ░▒▓░    ▒▓▒▒░                                            │
-│  ░  ░      ░  ░▒ ░ ▒░    ▒ ░▒░                                            │
-│  ░      ░     ░░   ░     ░ ░ ░                                            │
-│         ░      ░         ░   ░                                            │
-│                                                                             │
-│                        JITENDER CHAUHAN                                     │
-│                           aka Mr. J                                         │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────┐
+│     JITENDER CHAUHAN         │
+│        aka Mr. J             │
+│  AI Engineer • Full-Stack    │
+└──────────────────────────────┘
 ```
+
+<picture>
+  <source media="(max-width: 768px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=300&lines=AI+Engineer;Full-Stack+Dev;ML+Enthusiast;Building+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Building+the+Future" alt="Typing SVG" />
+</picture>
+
+</div>
 
 ```bash
 $ whoami
 jitender-chauhan
-
-$ pwd
-/home/mrj/github-profile
-
-$ cat /etc/profile
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ System Information                                                          │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ User:           Jitender Chauhan                                            │
-│ Alias:          Mr. J                                                       │
-│ Location:       Kullu, Himachal Pradesh, India 🏔️                          │
-│ Timezone:       IST (UTC+5:30)                                              │
-│ Shell:          /bin/bash                                                   │
-│ Editor:         VS Code / vim                                               │
-│ Occupation:     BCA Student (AI & ML)                                       │
-│ University:     Shoolini University                                         │
-│ Status:         Building the Future 🚀                                      │
-└─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+```bash
+$ cat /etc/profile
+```
+```
+┌───────────────────────────────┐
+│ System Info                   │
+├───────────────────────────────┤
+│ User:   Jitender Chauhan      │
+│ Alias:  Mr. J                 │
+│ Loc:    Kullu, HP, India 🏔️  │
+│ Shell:  /bin/bash             │
+│ Editor: VS Code               │
+│ Role:   BCA (AI & ML)         │
+│ Uni:    Shoolini University   │
+│ Status: Building Future 🚀    │
+└───────────────────────────────┘
+```
+
+<details>
+<summary><b>💬 Mission Statement</b></summary>
 
 ```bash
 $ cat mission.txt
 ```
-> *"I build intelligent systems that solve real-world problems while growing as a*  
-> *global software engineer. My journey blends technology, creativity, and*  
-> *continuous learning."*
+
+> *"Building intelligent systems that*  
+> *solve real-world problems while*  
+> *growing as a global software engineer."*
+
+</details>
 
 ```bash
 $ ls -la ~/skills/
 ```
-```
-total 48K
-drwxr-xr-x  6 mrj mrj 4.0K Jan 15 2026 .
-drwxr-xr-x 12 mrj mrj 4.0K Jan 15 2026 ..
 
-drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 languages/
+<details>
+<summary><b>📂 Languages & Frameworks</b></summary>
+
+```
+drwxr-xr-x 2 mrj mrj 4.0K languages/
   ├── c_lang.so
   ├── cpp_lang.so
   ├── csharp_lang.dll
   ├── python_ml.py
   └── javascript.js
+```
 
-drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 web_dev/
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+
+```
+drwxr-xr-x 2 mrj mrj 4.0K web_dev/
   ├── html5.html
   ├── css3.css
   ├── react.jsx
   ├── nodejs.js
   └── fullstack.config
+```
 
-drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 ai_ml/
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+
+```
+drwxr-xr-x 2 mrj mrj 4.0K ai_ml/
   ├── tensorflow.py
   ├── pytorch.pt
   ├── pandas.py
   ├── numpy.npy
   ├── scikit_learn.pkl
   └── data_analysis.ipynb
+```
 
-drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 tools/
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Database</b></summary>
+
+```
+drwxr-xr-x 2 mrj mrj 4.0K tools/
   ├── mysql.sql
   ├── git.config
   ├── github.repo
@@ -85,356 +110,278 @@ drwxr-xr-x  2 mrj mrj 4.0K Jan 15 2026 tools/
   └── canva.design
 ```
 
+</details>
+
 ```bash
 $ systemctl status mrj.service
 ```
 ```
-● mrj.service - Jitender Chauhan Developer Service
-   Loaded: loaded (/etc/systemd/system/mrj.service; enabled)
-   Active: active (running) since Jan 2024
-     Docs: https://your-portfolio-url.com
- Main PID: 1337 (mrj-daemon)
-    Tasks: ∞ (limit: unlimited)
-   Memory: Learning Mode (Expanding...)
-   CGroup: /system.slice/mrj.service
-           ├─ Coding Sessions:     [████████████████████] 100%
-           ├─ Problem Solving:     [████████████████████] 100%
-           ├─ Innovation:          [██████████████████  ]  90%
-           └─ Coffee Consumption:  [████████████████████] ∞
+● mrj.service - Developer Service
+   Active: active (running)
+   Status: Online ✅
 
-Jan 15 00:00:01 localhost mrj[1337]: Initialization complete
-Jan 15 00:00:01 localhost mrj[1337]: Loading AI/ML modules...
-Jan 15 00:00:02 localhost mrj[1337]: Full-stack capabilities enabled
-Jan 15 00:00:02 localhost mrj[1337]: Ready to build amazing things
+   ├─ Coding:     [████████] 100%
+   ├─ Learning:   [████████] 100%
+   ├─ Building:   [███████░]  90%
+   └─ Coffee:     [████████] ∞
 ```
+
+<details>
+<summary><b>📊 Performance Metrics</b></summary>
 
 ```bash
 $ cat /proc/stats
 ```
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                       PERFORMANCE METRICS                        │
-├─────────────────────────────────────────────────────────────────┤
-│  Skills Mastered:           15+                                 │
-│  Projects Completed:        10+                                 │
-│  Lines of Code:             50,000+                             │
-│  GitHub Contributions:      Growing Daily                       │
-│  Problem Solving Rate:      99.9%                               │
-│  Coffee Cups:               ∞                                   │
-│  Passion Level:             Over 9000! 🔥                       │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────┐
+│ Skills Mastered:      15+   │
+│ Projects Done:        10+   │
+│ Lines of Code:     50,000+  │
+│ GitHub Activity:   Daily ⚡ │
+│ Problem Solving:    99.9%   │
+│ Passion Level:      ∞ 🔥    │
+└─────────────────────────────┘
 ```
 
+</details>
+
 ```bash
-$ tree ~/projects/
+$ tree ~/projects/ -L 2
 ```
+
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
+
 ```
-/home/mrj/projects/
-├── legendary-works/
-│   ├── student-management-system/
-│   │   ├── backend/
-│   │   │   ├── csharp/
-│   │   │   └── mysql/
-│   │   ├── frontend/
-│   │   └── README.md ⭐ [Full Stack]
-│   │
-│   ├── ai-ml-projects/
-│   │   ├── data-analysis/
-│   │   ├── prediction-models/
-│   │   ├── training-pipelines/
-│   │   └── README.md ⭐ [Machine Learning]
-│   │
-│   └── design-portfolio/
-│       ├── posters/
-│       ├── wallpapers/
-│       ├── branding/
-│       └── README.md ⭐ [Creative Design]
+projects/
+├── student-management/
+│   ├── backend/ (C#, MySQL)
+│   ├── frontend/
+│   └── ⭐ Full Stack
 │
-└── in-development/
-    ├── quantum-terminal-portfolio/
-    └── secret-project-ai/ 🔒
+├── ai-ml-projects/
+│   ├── data-analysis/
+│   ├── models/
+│   └── ⭐ Machine Learning
+│
+└── design-portfolio/
+    ├── posters/
+    ├── branding/
+    └── ⭐ Creative Design
 ```
+
+</details>
+
+<details>
+<summary><b>⏰ Daily Routine (Cron Jobs)</b></summary>
 
 ```bash
 $ crontab -l
 ```
 ```
-# Scheduled Tasks - Jitender's Daily Routine
-# min hour day mon dow command
-
-00  06  *  *  *  /usr/bin/wake_up && /usr/bin/coffee
-30  06  *  *  *  /usr/bin/read_tech_news
-00  07  *  *  *  cd ~/projects && /usr/bin/code_session
-00  12  *  *  *  /usr/bin/lunch_break
-30  13  *  *  *  /usr/bin/learn_new_tech
-00  18  *  *  *  /usr/bin/build_projects
-00  22  *  *  *  /usr/bin/github_commit
-30  22  *  *  *  /usr/bin/plan_tomorrow
-00  23  *  *  *  /usr/bin/sleep_mode
-
-# Continuous Learning Loop
-*   *   *  *  *  /usr/bin/improve_skills
+00 06 * * *  wake_up && coffee
+30 06 * * *  read_tech_news
+00 07 * * *  coding_session
+00 12 * * *  lunch_break
+30 13 * * *  learn_new_tech
+00 18 * * *  build_projects
+00 22 * * *  github_commit
+00 23 * * *  sleep_mode
+*  *  * * *  improve_skills
 ```
+
+</details>
 
 ```bash
 $ cat ~/.bashrc | grep alias
 ```
+
+<details>
+<summary><b>⚡ Quick Aliases</b></summary>
+
 ```bash
-# Custom Aliases
-alias goals='echo "Master AI/ML → Study in Japan/Taiwan → AI Industry → Tech Entrepreneur"'
-alias passion='echo "Building intelligent systems that change lives 🚀"'
-alias motto='echo "Code with purpose, create with passion, innovate with courage"'
-alias stack='echo "C | C++ | C# | Python | JavaScript | AI/ML | Full-Stack"'
-alias dream='echo "Working on cutting-edge AI in Japan or Taiwan 🇯🇵🇹🇼"'
-alias status='echo "Coding 💻 | Learning 📚 | Building 🔨 | Evolving 🌱"'
+alias goals='Master AI/ML → Japan/Taiwan'
+alias stack='C|C++|C#|Python|JS|AI/ML'
+alias passion='Building systems 🚀'
+alias dream='AI Engineer in Japan 🇯🇵'
+alias status='Coding|Learning|Building'
 alias contact='cat ~/contact.info'
-alias coffee='echo "☕ Brewing innovation..."'
 ```
+
+</details>
 
 ```bash
 $ cat ~/contact.info
 ```
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      ESTABLISH CONNECTION                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  📧  EMAIL      →  your.email@example.com                       │
-│  🐙  GITHUB     →  github.com/yourusername                      │
-│  💼  LINKEDIN   →  linkedin.com/in/yourusername                 │
-│  📸  INSTAGRAM  →  instagram.com/yourusername                   │
-│  🌐  PORTFOLIO  →  your-portfolio-url.com                       │
-│                                                                  │
-│  📡 Response Time: < 24 hours                                   │
-│  🌏 Open to: Collaborations | Opportunities | Tech Discussions  │
-│  ⚡ Status: Online and Ready to Connect                         │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────┐
+│ 📧 your.email@example.com   │
+│ 🐙 github.com/yourusername  │
+│ 💼 linkedin.com/in/you      │
+│ 📸 instagram.com/you        │
+│ 🌐 your-portfolio.com       │
+│                             │
+│ Response: < 24h             │
+│ Status: ● Online            │
+└─────────────────────────────┘
 ```
 
+<details>
+<summary><b>🏆 Achievements & Logs</b></summary>
+
 ```bash
-$ cat /var/log/achievements.log
+$ tail /var/log/achievements.log
 ```
 ```
-[2024-XX-XX 00:00:00] INFO: IBM Skills Build Certification - COMPLETED ✅
-[2024-XX-XX 00:00:00] INFO: AI Fundamentals Course - COMPLETED ✅
-[2024-XX-XX 00:00:00] INFO: Student Management System - DEPLOYED 🚀
-[2025-XX-XX 00:00:00] INFO: Multiple ML Projects - COMPLETED ✅
-[2026-01-XX 00:00:00] INFO: Quantum Terminal Portfolio - LIVE 🌐
-[2026-01-XX 00:00:00] INFO: Advanced GitHub Profile - CREATED 💚
-[2026-XX-XX 00:00:00] WARN: More epic projects incoming...
-[2026-XX-XX 00:00:00] INFO: Level up in progress... 📈
+[2024] IBM Skills Build ✅
+[2024] AI Fundamentals ✅
+[2025] ML Projects ✅
+[2026] Terminal Portfolio 🚀
+[2026] GitHub Profile 💚
+[....] More incoming... 📈
 ```
+
+</details>
+
+<details>
+<summary><b>🎯 Interests & Hobbies</b></summary>
 
 ```bash
 $ df -h ~/interests/
 ```
 ```
-Filesystem              Size  Used  Avail  Use%  Mounted on
-/dev/interests          ∞     Full  ∞      ♾️   /home/mrj/interests
-
-/interests/coding          [████████████████████] 100%  Primary
-/interests/ai_ml           [████████████████████] 100%  Primary
-/interests/web_dev         [████████████████████] 100%  Primary
-/interests/reading         [████████████████░░░░]  80%  Fiction Novels
-/interests/esports         [███████████████░░░░░]  75%  Team QUE 9
-/interests/design          [██████████████████░░]  90%  UI/UX
-/interests/japanese        [████████████░░░░░░░░]  60%  Culture & Lang
-/interests/chinese         [███████████░░░░░░░░░]  55%  Tech & Culture
-/interests/mountains       [████████████████████] 100%  Himachal Pride
+/coding      [████████] 100%
+/ai_ml       [████████] 100%
+/web_dev     [████████] 100%
+/reading     [██████░░]  80%
+/esports     [█████░░░]  75%
+/design      [███████░]  90%
+/japanese    [████░░░░]  60%
+/mountains   [████████] 100%
 ```
+
+</details>
 
 ```bash
 $ cat /etc/goals/roadmap.conf
 ```
+
+<details>
+<summary><b>🎯 Short-Term Goals (2026)</b></summary>
+
 ```ini
-[SHORT_TERM_2026]
-; Current Focus Areas
+[2026_GOALS]
 learn_advanced_ml = true
 master_csharp = true
-build_production_projects = 5+
-enhance_fullstack = true
-contribute_opensource = true
-prepare_international_studies = true
-
-[LONG_TERM_2027_2030]
-; Future Aspirations
-study_location = ["Japan", "Taiwan"]
-scholarship = "MEXT"
-career_path = "AI Industry"
-role = "Global Software Engineer"
-entrepreneurship = "Tech Startup"
-impact = "Change the World"
-
-[DREAM_PROJECTS]
-ai_education_platform = "In Progress"
-opensource_ml_tools = "Planning"
-cross_cultural_tech_community = "Ideation"
-ai_research_papers = "Future Goal"
+build_projects = 5+
+opensource = true
+prepare_studies = Japan/Taiwan
 ```
+
+</details>
+
+<details>
+<summary><b>🚀 Long-Term Vision (2027+)</b></summary>
+
+```ini
+[LONG_TERM]
+study = Japan/Taiwan
+scholarship = MEXT
+career = AI Industry
+role = Global Engineer
+startup = Tech Brand
+impact = Change World
+```
+
+</details>
 
 ```bash
 $ uname -a
 ```
 ```
-Jitender-OS 2.0.0-quantum #1337 SMP Mon Jan 15 2026 x86_64 GNU/Developer
-Kernel: Passion-Driven Development
-Architecture: Full-Stack + AI/ML
-Build: Continuous Learning Model
+Developer-OS 2.0 #1337
+Kernel: Passion-Driven
+Build: Continuous-Learning
 Compiled: With ❤️ and ☕
 ```
 
+<details>
+<summary><b>📈 GitHub Stats</b></summary>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41" />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+
+</div>
+
+</details>
+
 ```bash
-$ echo $PATH
+$ history | tail -5
 ```
 ```
-/usr/local/ai_ml/bin:
-/usr/local/fullstack/bin:
-/opt/creative_design/bin:
-/home/mrj/innovation/bin:
-/home/mrj/projects/bin:
-/home/mrj/.continuous_learning/bin:
-/usr/share/passion:
-/var/lib/dreams
+9996  git commit -m "New features"
+9997  npm run deploy
+9998  coffee --extra-strong
+9999  build-the-future --max
+10000 echo "Keep building!" 
 ```
 
 ```bash
-$ top -u mrj
+$ fortune
 ```
 ```
-Tasks: ∞ total, ∞ running, 0 sleeping, 0 stopped
-%CPU: 100 (Fully Engaged)    %MEM: Expanding    Load Avg: Optimal
-
-  PID  USER  PR   NI   VIRT    RES   SHR  S  %CPU  %MEM  TIME+     COMMAND
- 1337  mrj   20   0   999G   999G   999G  R  100   100   24/7      coding
- 1338  mrj   20   0   999G   999G   999G  R  100   100   24/7      learning
- 1339  mrj   20   0   999G   999G   999G  R  100   100   24/7      building
- 1340  mrj   20   0   999G   999G   999G  R  100   100   24/7      creating
- 1341  mrj   20   0   999G   999G   999G  R   99   100   24/7      innovating
- 1342  mrj   20   0   999G   999G   999G  R  100   100   ∞         dreaming
+╔══════════════════════════════╗
+║ "First solve the problem,   ║
+║  then write the code."       ║
+║                              ║
+║ "Good code is its own        ║
+║  best documentation."        ║
+╚══════════════════════════════╝
 ```
 
-```bash
-$ history | tail -10
+<details>
+<summary><b>💻 System Info (Neofetch)</b></summary>
+
 ```
-```
- 9991  git commit -m "Built amazing AI project"
- 9992  git push origin main
- 9993  npm run deploy
- 9994  coffee --extra-strong
- 9995  code --new-feature
- 9996  pytest --coverage
- 9997  git commit -m "Fixed all bugs"
- 9998  learn-new-tech --mode=intensive
- 9999  build-the-future --passion=max
-10000  echo "Never stop learning, never stop building" > /dev/inspiration
+      ##            mrj@github
+    ####            ─────────────────
+  ######            OS: Developer v2.0
+  ######            Shell: bash 5.2
+    ####            WM: Innovation
+      ##            Terminal: Quantum
+                    CPU: Brain (8-core)
+████ ████           GPU: Creativity
+████ ████           Memory: Unlimited
 ```
 
-```bash
-$ sudo fortune
-```
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "Any fool can write code that a computer can understand.        ║
-║   Good programmers write code that humans can understand."       ║
-║                                                                  ║
-║   "First, solve the problem. Then, write the code."              ║
-║                                                                  ║
-║   "Code is like humor. When you have to explain it, it's bad."   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-```bash
-$ neofetch
-```
-```
-                    ##                    mrj@github
-                  ####                    ──────────────────────────
-                ######                    OS: Developer Edition v2.0
-              ########                    Host: Shoolini University
-            ##########                    Kernel: Passion-5.15-LTS
-          ############                    Uptime: 24/7/365
-        ##############                    Shell: bash 5.2.15
-      ################                    Resolution: 4K Ultra HD
-    ##################                    WM: Innovation Manager
-  ####################                    Theme: Terminal-Hacker-Neon
-  ####################                    Icons: Minimalist-Dev
-    ##################                    Terminal: Quantum Shell
-      ################                    CPU: Brain (8 cores)
-        ##############                    GPU: Creativity Accelerator
-          ############                    Memory: Unlimited Learning
-            ##########                    
-              ########                    ████ ████ ████ ████ ████
-                ######                    ████ ████ ████ ████ ████
-                  ####                    
-                    ##                    
-```
-
-```bash
-$ cat .signature
-```
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║  ██████╗  ██╗   ██╗ ██╗ ██╗     ██████╗  ██╗ ███╗   ██╗  ██████╗        ║
-║  ██╔══██╗ ██║   ██║ ██║ ██║     ██╔══██╗ ██║ ████╗  ██║ ██╔════╝        ║
-║  ██████╔╝ ██║   ██║ ██║ ██║     ██║  ██║ ██║ ██╔██╗ ██║ ██║  ███╗       ║
-║  ██╔══██╗ ██║   ██║ ██║ ██║     ██║  ██║ ██║ ██║╚██╗██║ ██║   ██║       ║
-║  ██████╔╝ ╚██████╔╝ ██║ ███████╗██████╔╝ ██║ ██║ ╚████║ ╚██████╔╝       ║
-║  ╚═════╝   ╚═════╝  ╚═╝ ╚══════╝╚═════╝  ╚═╝ ╚═╝  ╚═══╝  ╚═════╝        ║
-║                                                                           ║
-║         ████████╗ ██╗  ██╗ ███████╗                                      ║
-║         ╚══██╔══╝ ██║  ██║ ██╔════╝                                      ║
-║            ██║    ███████║ █████╗                                        ║
-║            ██║    ██╔══██║ ██╔══╝                                        ║
-║            ██║    ██║  ██║ ███████╗                                      ║
-║            ╚═╝    ╚═╝  ╚═╝ ╚══════╝                                      ║
-║                                                                           ║
-║         ███████╗ ██╗   ██╗ ████████╗ ██╗   ██╗ ██████╗  ███████╗        ║
-║         ██╔════╝ ██║   ██║ ╚══██╔══╝ ██║   ██║ ██╔══██╗ ██╔════╝        ║
-║         █████╗   ██║   ██║    ██║    ██║   ██║ ██████╔╝ █████╗          ║
-║         ██╔══╝   ██║   ██║    ██║    ██║   ██║ ██╔══██╗ ██╔══╝          ║
-║         ██║      ╚██████╔╝    ██║    ╚██████╔╝ ██║  ██║ ███████╗        ║
-║         ╚═╝       ╚═════╝     ╚═╝     ╚═════╝  ╚═╝  ╚═╝ ╚══════╝        ║
-║                                                                           ║
-║                 One commit at a time, one dream at a time                ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+</details>
 
 ```bash
 $ exit
 ```
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  Thanks for visiting my terminal! 🚀                                        │
-│                                                                             │
-│  If you found this interesting, consider:                                   │
-│    • Starring ⭐ my repositories                                            │
-│    • Following 👤 for more cool projects                                   │
-│    • Collaborating 🤝 on something amazing                                 │
-│                                                                             │
-│  Remember: "The best time to plant a tree was 20 years ago.                │
-│             The second best time is now." 🌱                                │
-│                                                                             │
-│  Stay curious. Keep coding. Build the future.                              │
-│                                                                             │
-│  logout: Connection to github.com closed.                                  │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-
-[Process completed - Press any key to continue or visit my portfolio]
+┌─────────────────────────────┐
+│ Thanks for visiting! 🚀     │
+│                             │
+│ • ⭐ Star repos             │
+│ • 👤 Follow for updates     │
+│ • 🤝 Let's collaborate      │
+│                             │
+│ "Keep coding. Build future" │
+│                             │
+│ Connection closed.          │
+└─────────────────────────────┘
 ```
-
----
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=flat-square&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=flat-square&label=VISITORS)
 
-**Last boot:** `January 2026` | **Uptime:** `24/7/365` | **Status:** `● ONLINE`
+**Status:** `● ONLINE` | **Uptime:** `24/7` | **Updated:** `Jan 2026`
 
 </div>
