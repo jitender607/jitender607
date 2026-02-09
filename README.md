@@ -2,9 +2,9 @@
 
 ```
 ┌──────────────────────────────┐
-│     JITENDER CHAUHAN         │
-│        # Mr. J               │
-│  AI Engineer • Developer     │
+│        JITENDER CHAUHAN       │
+│            # Mr. J            │
+│    AI Engineer • Developer    │
 └──────────────────────────────┘
 ```
 
