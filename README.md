@@ -1,571 +1,335 @@
-# 🚀 Mr. J - Quantum Terminal Portfolio
+# 👋 Hi, I'm Jitender Chauhan 
+### aka **Mr. J** 
 
 <div align="center">
-
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-Quantum%20Terminal-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Version](https://img.shields.io/badge/version-2.0.0--quantum-00d9ff?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-a855f7?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-online-39ff14?style=for-the-badge)
-
-**A Next-Generation Terminal-Inspired Portfolio Website**
-
-[View Demo](#-demo) • [Features](#-features) • [Installation](#-installation) • [Customization](#-customization) • [Contact](#-contact)
-
----
-
-### 🎯 Built with Passion | Designed for Impact | Coded for Excellence
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+the+Future)](https://git.io/typing-svg)
 
 </div>
 
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Demo](#-demo)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Customization](#-customization)
-- [Project Structure](#-project-structure)
-- [Performance](#-performance)
-- [Browser Support](#-browser-support)
-- [Easter Eggs](#-easter-eggs)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
-
-## 🎨 About
-
-Welcome to my **Quantum Terminal Portfolio** - a cutting-edge, terminal-inspired personal portfolio website that breaks away from conventional design patterns. This isn't just another portfolio; it's an **immersive experience** that showcases skills, projects, and personality through a unique Linux terminal aesthetic.
-
-### 💡 The Vision
-
-In a world of cookie-cutter portfolio templates, I wanted to create something that:
-- **Stands out** from the crowd with a distinctive hacker/developer aesthetic
-- **Tells a story** through interactive terminal commands
-- **Demonstrates technical skill** through advanced CSS/JS animations
-- **Remains professional** while being creatively bold
-- **Performs flawlessly** across all devices
-
-### 🎭 The Philosophy
-
-> "Code is poetry. Design is art. Together, they create magic."
-
-This portfolio embodies the intersection of technical prowess and creative design, proving that developer portfolios can be both functional and visually stunning.
-
-## 🎬 Demo
-
-### 🌐 Live Demo
-**[View Live Portfolio →](#)** *(Add your deployed URL here)*
-
-### 📸 Screenshots
-
-<details>
-<summary><b>🖥️ Desktop View</b></summary>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🟢 🟡 🔴                  mrj@portfolio:~$                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ███▄ ▄███▓ ██▀███      ▄▄▄██▀▀▀                           │
-│ ▓██▒▀█▀ ██▒▓██ ▒ ██▒      ▒██                              │
-│                                                              │
-│  JITENDER CHAUHAN                                           │
-│  Aspiring AI Engineer & Full-Stack Developer                │
-│                                                              │
-│  📍 Kullu, Himachal Pradesh, India                          │
-│  🎓 BCA Student (AI & ML) @ Shoolini University             │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
+```ascii
+ ███▄ ▄███▓ ██▀███      ▄▄▄██▀▀▀
+▓██▒▀█▀ ██▒▓██ ▒ ██▒      ▒██   
+▓██    ▓██░▓██ ░▄█ ▒      ░██  
+▒██    ▒██ ▒██▀▀█▄     ▓██▄██▓
+▒██▒   ░██▒░██▓ ▒██▒    ▓███▒  
+░ ▒░   ░  ░░ ▒▓ ░▒▓░    ▒▓▒▒░  
 ```
 
-*Desktop view features matrix rain background, particle systems, and holographic effects*
+<div align="center">
 
-</details>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Quantum%20Terminal-00ff41?style=for-the-badge&logo=About.me&logoColor=00ff41)](your-portfolio-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
-<details>
-<summary><b>📱 Mobile View</b></summary>
+</div>
 
-```
-┌──────────────────────┐
-│  ☰                   │
-│                      │
-│  MR. J               │
-│  Terminal Portfolio  │
-│                      │
-│  [Hamburger Menu]    │
-│  • whoami           │
-│  • skills           │
-│  • projects         │
-│  • contact          │
-│                      │
-└──────────────────────┘
-```
+---
 
-*Mobile view with collapsible navigation and optimized touch interactions*
+## 🚀 About Me
 
-</details>
+```python
+class JitenderChauhan:
+    def __init__(self):
+        self.name = "Jitender Chauhan"
+        self.alias = "Mr. J"
+        self.location = "Kullu, Himachal Pradesh, India 🏔️"
+        self.education = {
+            "degree": "BCA (Bachelor of Computer Applications)",
+            "specialization": "Artificial Intelligence & Machine Learning",
+            "university": "Shoolini University",
+            "status": "Advanced Undergraduate"
+        }
+        self.current_focus = [
+            "AI/ML Development",
+            "Full Stack Web Development",
+            "Building Innovative Solutions"
+        ]
+        self.goals = {
+            "short_term": "Master AI/ML & C#",
+            "long_term": "Study in Japan/Taiwan, Work in AI Industry"
+        }
+        self.passion = "Building intelligent systems that solve real-world problems 🌟"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-### 🎥 Demo GIF
-```
-[Add animated GIF showing portfolio interactions]
-```
-
-## ✨ Features
-
-### 🎨 Visual Effects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🌌 Background Magic
-- **Matrix Rain Animation** - Cascading code effect
-- **Particle System** - Interactive floating particles with connection lines
-- **Floating Geometric Shapes** - Subtle animated elements
-- **Holographic Gradients** - Stunning color transitions
-
-</td>
-<td width="50%">
-
-#### ✨ Interactive Elements
-- **Hover Effects** - Smooth 3D transformations
-- **Animated Cards** - Parallax project showcases
-- **Glowing Borders** - Neon-style accents
-- **Custom Scrollbar** - Themed scroll experience
-
-</td>
-</tr>
-</table>
-
-### 🖥️ Terminal Experience
-
-```bash
-# Working Interactive Terminal
-$ help              # Show all commands
-$ whoami            # Display profile info
-$ skills            # List technical skills
-$ projects          # Show project portfolio
-$ goals             # Display career roadmap
-$ fortune           # Random tech wisdom
-$ matrix            # Toggle matrix intensity
-$ clear             # Clear terminal history
+me = JitenderChauhan()
+me.say_hi()
 ```
 
-### 📊 Dynamic Features
+## 💻 Tech Stack
 
-| Feature | Description |
-|---------|-------------|
-| 🚀 Boot Sequence | Custom loading animation with progress bar |
-| 📈 Live Stats | Animated counters on scroll |
-| 🎯 Smooth Scroll | Buttery smooth navigation |
-| 📱 Responsive Design | Perfect on all screen sizes |
-| ⌨️ Keyboard Shortcuts | Konami code easter egg |
-| 🌙 Progress Bar | Visual scroll indicator |
-| ⏱️ Live Uptime | Real-time session counter |
+<div align="center">
 
-### 🎯 Sections
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-1. **Hero** - Eye-catching introduction with ASCII art
-2. **Stats** - Animated achievement counters
-3. **About** - Professional bio and education
-4. **Skills** - Technical proficiencies organized by category
-5. **Projects** - Portfolio of legendary works
-6. **Goals** - Career vision and roadmap
-7. **Terminal** - Interactive command interface
-8. **Contact** - Multiple communication channels
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 🛠️ Tech Stack
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Core Technologies
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+### Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🏆 Achievements & Certifications
+
+```yaml
+Certifications:
+  - name: "IBM Skills Build"
+    topics: ["AI Fundamentals", "Professional Skills"]
+    status: "Completed ✅"
+  
+  - name: "University Workshops"
+    topics: ["Advanced CS", "Machine Learning"]
+    status: "Active 🔄"
+
+Skills_Mastered: 15+
+Projects_Completed: 10+
+Lines_of_Code: 50000+
+Coffee_Consumed: ∞
+```
+
+## 🎯 Current Focus
 
 ```javascript
-const techStack = {
-    frontend: {
-        markup: "HTML5",
-        styling: "CSS3 (Pure, No Frameworks)",
-        scripting: "Vanilla JavaScript (ES6+)",
-        fonts: ["JetBrains Mono", "Orbitron"]
-    },
-    features: {
-        animations: "CSS Keyframes + Canvas API",
-        effects: ["Matrix Rain", "Particle Physics"],
-        responsive: "CSS Media Queries",
-        optimization: "Lazy Loading + Debouncing"
-    },
-    design: {
-        aesthetic: "Terminal / Hacker / Cyberpunk",
-        colorScheme: "Neon Green + Cyan + Purple",
-        layout: "Single Page Application (SPA)",
-        ux: "Progressive Enhancement"
-    }
+const currentlyWorkingOn = {
+    learning: [
+        "Advanced Machine Learning Algorithms",
+        "Deep Learning & Neural Networks",
+        "Full Stack Development with React",
+        "C# & .NET Framework"
+    ],
+    building: [
+        "AI-powered Student Management System",
+        "ML Prediction Models",
+        "Personal Portfolio Website (Terminal-themed)",
+        "Creative Design Projects"
+    ],
+    reading: [
+        "Hands-On Machine Learning with Scikit-Learn",
+        "Clean Code by Robert C. Martin",
+        "Fiction novels 📚"
+    ],
+    goals_2026: [
+        "Build 5+ production-ready projects",
+        "Contribute to open source",
+        "Master AI/ML frameworks",
+        "Prepare for international studies (Japan/Taiwan)"
+    ]
 };
 ```
 
-### Why No Frameworks?
+## 🌟 Featured Projects
 
-**Pure HTML/CSS/JS for:**
-- ⚡ **Lightning Fast** - Zero dependencies, instant load
-- 🎯 **Full Control** - Every pixel, every animation
-- 📦 **Lightweight** - ~50KB total (vs. 500KB+ with frameworks)
-- 🔧 **Easy Customization** - No build process required
-- 🎓 **Learning** - Demonstrates core web development skills
+<div align="center">
 
-## 🚀 Installation
+[![Student Management System](https://img.shields.io/badge/Student%20Management%20System-Full%20Stack-00FF41?style=for-the-badge&logo=checkmarx&logoColor=00FF41)](https://github.com/yourusername/student-management)
+[![AI/ML Projects](https://img.shields.io/badge/AI%2FML%20Mini%20Projects-Machine%20Learning-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=00D9FF)](https://github.com/yourusername/ml-projects)
+[![Portfolio](https://img.shields.io/badge/Quantum%20Terminal%20Portfolio-Web%20Dev-A855F7?style=for-the-badge&logo=linux&logoColor=A855F7)](https://github.com/yourusername/portfolio)
 
-### Quick Start (30 seconds)
+</div>
+
+<details>
+<summary><b>🚀 Project Details (Click to expand)</b></summary>
+
+### 📦 Student Management System
+**Full Stack Application** | MySQL + C# + Web
+- ✅ Fee payment module with database integration
+- ✅ Robust UI/Backend architecture
+- ✅ Real-time data management
+- 🛠️ Tech: MySQL, C#, Web Development
+
+### 🤖 AI/ML Mini Projects
+**Machine Learning Collection** | Python + TensorFlow
+- ✅ Data analysis and prediction models
+- ✅ Custom training pipelines
+- ✅ Model evaluation frameworks
+- 🛠️ Tech: Python, Pandas, Scikit-learn, TensorFlow
+
+### 🎨 Design Portfolio
+**Creative Works** | UI/UX Design
+- ✅ Posters, wallpapers, branding concepts
+- ✅ Website UI designs
+- ✅ Visual storytelling
+- 🛠️ Tech: Canva, Figma
+
+</details>
+
+## 💡 What I Bring to the Table
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/quantum-terminal-portfolio.git
+$ cat strengths.txt
 
-# 2. Navigate to project
-cd quantum-terminal-portfolio
-
-# 3. Open in browser
-open portfolio-advanced.html
-# or
-start portfolio-advanced.html  # Windows
-# or
-xdg-open portfolio-advanced.html  # Linux
+⚡ Problem Solving      → Breaking complex problems into elegant solutions
+🎨 Creative Thinking    → Unique approaches to technical challenges
+📊 Data-Driven         → Making decisions based on analysis and metrics
+🔄 Continuous Learning  → Always exploring new technologies
+🎯 Precision           → Attention to detail in every line of code
+🤝 Collaboration       → Team player with strong communication skills
 ```
 
-That's it! No npm install, no build process, no configuration hell. Just **pure simplicity**.
+## 🌱 Learning Journey
 
-### Live Server (Recommended for Development)
+<div align="center">
 
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js
-npx http-server
-
-# Using PHP
-php -S localhost:8000
-
-# Then open http://localhost:8000
-```
-
-### Deploy Anywhere
-
-**Compatible with:**
-- GitHub Pages
-- Netlify
-- Vercel
-- AWS S3
-- Firebase Hosting
-- Any static hosting service
-
-## 🎨 Customization
-
-### Step 1: Update Personal Information
-
-Open `portfolio-advanced.html` and search for these sections:
-
-#### Hero Section (Line ~950)
-```html
-<!-- Change your name and title -->
-<h1>Your Name Here</h1>
-<p>Your Professional Title</p>
-<p>📍 Your Location</p>
-<p>🎓 Your University/Company</p>
-```
-
-#### Contact Links (Line ~1450)
-```html
-<!-- Update with your actual links -->
-<a href="mailto:your.email@example.com">📧 Email</a>
-<a href="https://github.com/yourusername">🐙 GitHub</a>
-<a href="https://linkedin.com/in/yourusername">💼 LinkedIn</a>
-<a href="https://instagram.com/yourusername">📸 Instagram</a>
-```
-
-#### Terminal Commands (Line ~1650)
-```javascript
-// Update contact info in terminal
-contact: `📧 Email: your.email@example.com
-🐙 GitHub: /yourusername
-💼 LinkedIn: /in/yourusername`
-```
-
-### Step 2: Customize Colors
-
-```css
-/* Edit CSS variables (Line ~20) */
-:root {
-    --text-primary: #00ff41;      /* Main green */
-    --accent-cyan: #00d9ff;       /* Cyan accents */
-    --accent-purple: #a855f7;     /* Purple highlights */
-    --accent-yellow: #ffed4e;     /* Yellow tags */
+```mermaid
+graph LR
+    A[BCA Student] --> B[AI & ML Specialization]
+    B --> C[Full Stack Developer]
+    C --> D[AI Engineer]
+    D --> E[International Career]
+    E --> F[Tech Entrepreneur]
     
-    /* Change to your brand colors */
-    --text-primary: #your-color;
-}
+    style A fill:#00ff41,stroke:#00d9ff,stroke-width:2px,color:#000
+    style B fill:#00ff41,stroke:#00d9ff,stroke-width:2px,color:#000
+    style C fill:#00d9ff,stroke:#a855f7,stroke-width:2px,color:#000
+    style D fill:#00d9ff,stroke:#a855f7,stroke-width:2px,color:#000
+    style E fill:#a855f7,stroke:#ff0055,stroke-width:2px,color:#fff
+    style F fill:#ffed4e,stroke:#ff0055,stroke-width:2px,color:#000
 ```
 
-### Step 3: Add Your Projects
-
-```html
-<!-- Add project cards (Line ~1200) -->
-<div class="project-card">
-    <div class="project-header">
-        <div class="project-title">Your Project Name</div>
-        <div class="project-tag">PROJECT TYPE</div>
-    </div>
-    <p class="project-desc">
-        Your amazing project description here...
-    </p>
-    <div class="project-tech">
-        <span class="tech-badge">Tech 1</span>
-        <span class="tech-badge">Tech 2</span>
-    </div>
 </div>
-```
 
-### Step 4: Adjust Animations
+## 🎮 Interests Beyond Code
 
-```css
-/* Control matrix rain speed (Line ~1800) */
-setInterval(drawMatrix, 50);  /* Lower = faster */
+- 📖 **Reading Fiction** - Exploring different worlds through stories
+- 🎮 **Esports** - Team QUE 9 member
+- 🎨 **Design & Creativity** - UI/UX, digital art, branding
+- 🇯🇵 **Japanese Culture** - Language, anime, tech culture
+- 🇨🇳 **Chinese Culture** - History, technology innovations
+- 🏔️ **Mountains** - Proud Himachali, love for nature
 
-/* Adjust particle count (Line ~1850) */
-const particleCount = 50;  /* Increase for more particles */
-
-/* Modify stat counter speed (Line ~2200) */
-const increment = target / 50;  /* Higher divisor = slower */
-```
-
-## 📁 Project Structure
-
-```
-quantum-terminal-portfolio/
-│
-├── 📄 portfolio-advanced.html    # Main portfolio file (single file!)
-├── 📄 README.md                  # This documentation
-├── 📄 LICENSE                    # MIT License
-│
-└── 📁 assets/ (optional)
-    ├── 📁 images/
-    │   ├── screenshot-desktop.png
-    │   ├── screenshot-mobile.png
-    │   └── demo.gif
-    └── 📁 docs/
-        └── customization-guide.md
-```
-
-### Single File Architecture
-
-**Everything in one HTML file:**
-- ✅ Easier to deploy
-- ✅ Faster to load (1 HTTP request)
-- ✅ Simpler to customize
-- ✅ No build process
-- ✅ Version control friendly
-
-## ⚡ Performance
-
-### Metrics
-
-```
-Lighthouse Score:
-├── Performance:    98/100
-├── Accessibility:  95/100
-├── Best Practices: 100/100
-└── SEO:            90/100
-
-Load Time:
-├── First Paint:         0.4s
-├── Largest Contentful:  0.8s
-├── Time to Interactive: 1.2s
-└── Total Size:          ~50KB
-```
-
-### Optimization Techniques
-
-- ✅ **CSS-Only Animations** - No JavaScript overhead
-- ✅ **Debounced Scroll Events** - Smooth performance
-- ✅ **Canvas Throttling** - Efficient particle rendering
-- ✅ **Lazy Stat Counting** - Animations on viewport entry
-- ✅ **Minimal Dependencies** - Just 2 Google Fonts
-- ✅ **Optimized Selectors** - Fast DOM manipulation
-
-## 🌐 Browser Support
-
-| Browser | Version | Status |
-|---------|---------|--------|
-| Chrome | 90+ | ✅ Full Support |
-| Firefox | 88+ | ✅ Full Support |
-| Safari | 14+ | ✅ Full Support |
-| Edge | 90+ | ✅ Full Support |
-| Opera | 76+ | ✅ Full Support |
-| Mobile Safari | 14+ | ✅ Full Support |
-| Chrome Mobile | 90+ | ✅ Full Support |
-
-### Fallbacks
-
-- Older browsers get graceful degradation
-- All content remains accessible
-- JavaScript animations are progressive enhancements
-
-## 🎁 Easter Eggs
-
-### Konami Code
-```
-Press: ↑ ↑ ↓ ↓ ← → ← → B A
-Result: Rainbow dimension activated! 🌈
-```
-
-### Terminal Secrets
-```bash
-$ matrix          # Toggle matrix intensity
-$ fortune         # Get random coding wisdom
-$ help            # Discover all commands
-```
-
-### Hover Secrets
-- Hover over ASCII art for 3D effect
-- Hover over skill cards for glow
-- Hover over project cards for parallax
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-### Reporting Bugs
-1. Check existing issues
-2. Create detailed bug report
-3. Include browser/OS info
-4. Provide screenshots if possible
-
-### Feature Requests
-1. Open an issue with `[FEATURE]` prefix
-2. Describe the feature clearly
-3. Explain use case and benefits
-
-### Pull Requests
-```bash
-# 1. Fork the repository
-# 2. Create feature branch
-git checkout -b feature/AmazingFeature
-
-# 3. Commit changes
-git commit -m 'Add some AmazingFeature'
-
-# 4. Push to branch
-git push origin feature/AmazingFeature
-
-# 5. Open Pull Request
-```
-
-### Code Style
-- Use consistent indentation (2 spaces)
-- Comment complex logic
-- Follow existing naming conventions
-- Test on multiple browsers
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2026 Jitender Chauhan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
-**TL;DR:** You can use this for personal or commercial projects. Just give credit! ⭐
-
-## 📞 Contact
+## 📈 Contribution Graph
 
 <div align="center">
 
-### Let's Connect! 🚀
-
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-00ff41?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-00d9ff?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-a855f7?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-yourusername-ff0055?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)
+![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-### 📬 Get in Touch
+## 📫 Let's Connect!
 
-- 💼 **Professional Inquiries:** your.email@example.com
-- 🤝 **Collaborations:** Open to exciting projects!
-- 🌏 **International Opportunities:** Especially interested in Japan/Taiwan
-- 💬 **Quick Chat:** DM on LinkedIn or Instagram
+<div align="center">
 
-**Response Time:** Usually within 24 hours ⚡
+### 🌐 Find me on the web
 
-## 🙏 Acknowledgments
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Quantum_Terminal-00ff41?style=for-the-badge)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge)](https://instagram.com/yourusername)
 
-### Inspiration
-- **The Matrix** - For the aesthetic inspiration
-- **Linux Terminal** - For the interface concept
-- **Cyberpunk 2077** - For the neon color palette
-- **Hacker Culture** - For the overall vibe
+---
 
-### Tools & Resources
-- [Google Fonts](https://fonts.google.com) - JetBrains Mono & Orbitron
-- [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) - Matrix rain & particles
-- [MDN Web Docs](https://developer.mozilla.org) - Documentation reference
-- [Shields.io](https://shields.io) - Beautiful badges
+### 💬 Open to
 
-### Special Thanks
-- **Shoolini University** - For the AI/ML education
-- **Open Source Community** - For inspiration and learning
-- **You** - For checking out this portfolio! 🎉
+- 🤝 Collaboration on AI/ML projects
+- 💼 Internship opportunities
+- 🌏 International project partnerships
+- 📚 Knowledge sharing and mentorship
+- 🚀 Innovative startup ideas
+
+---
+
+### 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+error+message+is+the+one+that+never+shows+up.&author=Thomas+Fuchs)
+
+</div>
+
+## 🎯 2026 Goals Tracker
+
+- [x] Build advanced portfolio website
+- [x] Complete IBM Skills Build certification
+- [ ] Contribute to 5+ open source projects
+- [ ] Build production-ready AI project
+- [ ] Master React and Node.js
+- [ ] Learn Japanese (JLPT N5)
+- [ ] Prepare MEXT scholarship application
+- [ ] Publish technical blog posts
+- [ ] Reach 100+ GitHub followers
+- [ ] Build personal tech brand
 
 ---
 
 <div align="center">
 
-### ⭐ Star this repo if you found it helpful!
-
-**Made with 💚 and Terminal Aesthetics**
+### 💚 Thanks for visiting!
 
 ```
-     _____ _                 _          __                           
-    |_   _| |__   __ _ _ __ | | _____  / _| ___  _ __                
-      | | | '_ \ / _` | '_ \| |/ / __| | |_ / _ \| '__|               
-      | | | | | | (_| | | | |   <\__ \ |  _| (_) | |                  
-      |_| |_| |_|\__,_|_| |_|_|\_\___/ |_|  \___/|_|                  
-                                                                       
-         __     ___     _ _   _                                       
-         \ \   / (_)___(_) |_(_)_ __   __ _                          
-          \ \ / /| / __| | __| | '_ \ / _` |                         
-           \ V / | \__ \ | |_| | | | | (_| |                         
-            \_/  |_|___/_|\__|_|_| |_|\__, |                         
-                                      |___/                          
+  _____                 _                     __              
+ |_   _|__   __ _  __ _| |_ ___  __ _   ___ / _|  ___        
+   | |/ _ \ / _` |/ _` | __/ _ \/ _` | / _ \ |_  / _ \       
+   | |  __/| (_| | (_| | ||  __/ (_| ||  __/  _||  __/       
+   |_|\___| \__, |\__, |\__\___|\__,_| \___|_|   \___|       
+            |___/ |___/                                       
 ```
 
-**[⬆ Back to Top](#-mr-j---quantum-terminal-portfolio)**
+**"Building the future, one commit at a time"** 🚀
+
+If you like what you see, consider giving a ⭐ to my repositories!
+
+**Last Updated:** January 2026
 
 </div>
 
 ---
 
-### 📊 Repository Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/quantum-terminal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/quantum-terminal-portfolio?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/quantum-terminal-portfolio?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/quantum-terminal-portfolio)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/quantum-terminal-portfolio)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/quantum-terminal-portfolio)
-
----
-
 <div align="center">
 
-**© 2026 Jitender Chauhan | All Rights Reserved**
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-*Building the future, one line of code at a time* 🚀
+**💻 Code • ☕ Coffee • 🚀 Create**
 
 </div>
